@@ -1,0 +1,14 @@
+__pycache__/
+
+# PyCharm
+.idea
+
+# For Mac
+.DS_Store
+
+# result
+result/
+output/
+
+# vs code
+.vscode
