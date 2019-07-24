@@ -22,7 +22,7 @@ git clone https://github.com/ChengjieWU/TRE.git
 Install the TRE wheel file.
 
 ```bash
-cd TRE
+cd TensorRT-Easy-to-Run
 python setup.py sdist bdist_wheel
 pip install dist/TRE-0.0.1-py3-none-any.whl
 ```
